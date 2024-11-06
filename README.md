@@ -7,7 +7,7 @@
 
  #
  <br />
-<p align="justify">I'm a polish full-stack developer but with the passion for Flutter. I build projects from the ground up, from planning and designing all the way to solving real-life problems. I publish that projects on my GitHub and my home page: https://sandra-skibiszewska.profesjonalnyprogramista.pl/. I also created a chemistry website: https://fenyloetyloamina.pl/ - since July 2022 I hold a PhD in chemical sciences!</p>
+<p align="justify">I'm a polish full-stack developer but with the passion for Flutter. I build projects from the ground up, from planning and designing all the way to solving real-life problems. I publish that projects on my GitHub and my home page: https://sandra-skibiszewska.profesjonalnyprogramista.pl/</p>
   
 # 
 <br />
